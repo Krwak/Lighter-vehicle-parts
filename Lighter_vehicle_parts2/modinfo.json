@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "lighter_vehicle_parts",
+    "name": "Lighter vehicle parts",
+    "authors": [ "Krwak" ],
+    "maintainers": [ "Krwak" ],
+    "description": "Lowers the weight of storage battery and cargo carrier.",
+    "category": "items",
+    "dependencies": [ "bn" ]
+  }  
+]
